@@ -4,10 +4,12 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="xadrez_console Status">
+  <MonoDevelop.Ide.Workbench ActiveDocument="xadrez\tabuleiro\Tabuleiro.cs">
     <Files>
       <File FileName="xadrez\Program.cs" Line="9" Column="40" />
-      <File FileName="xadrez_console Status" />
+      <File FileName="xadrez\tabuleiro\Cor.cs" Line="8" Column="11" />
+      <File FileName="xadrez\tabuleiro\Peca.cs" Line="18" Column="26" />
+      <File FileName="xadrez\tabuleiro\Tabuleiro.cs" Line="7" Column="36" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />

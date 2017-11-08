@@ -1,7 +1,10 @@
 ﻿namespace tabuleiro
 {
-    public class Cor
+    enum Cor
     {
-		public string descricao { get; set; }
+		Branco,
+		Preto,
+		Vermelho,
+		Amarelo,
     }
 }
