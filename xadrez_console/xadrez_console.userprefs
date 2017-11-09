@@ -2,14 +2,17 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <FunctionBreakpoint line="14" column="1" function="Observa Linha" language="C#" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="xadrez\tabuleiro\Tabuleiro.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="xadrez\Tela.cs">
     <Files>
-      <File FileName="xadrez\Program.cs" Line="9" Column="40" />
+      <File FileName="xadrez\Program.cs" Line="11" Column="48" />
       <File FileName="xadrez\tabuleiro\Cor.cs" Line="8" Column="11" />
       <File FileName="xadrez\tabuleiro\Peca.cs" Line="18" Column="26" />
-      <File FileName="xadrez\tabuleiro\Tabuleiro.cs" Line="7" Column="36" />
+      <File FileName="xadrez\tabuleiro\Tabuleiro.cs" Line="11" Column="21" />
+      <File FileName="xadrez\Tela.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
