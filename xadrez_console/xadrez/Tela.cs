@@ -4,8 +4,7 @@ namespace xadrez
 {
      class Tela
     {
-       //public Tela()
-        //{
+       
             public static void imprimiTabuleiro(Tabuleiro tab) {
 
             for (int i = 0; i < tab.linhas; i++) {
@@ -21,7 +20,6 @@ namespace xadrez
                         Console.Write(tab.peca(i, j) + " ");
                     }
 
-
                 }
 
                 Console.WriteLine();
@@ -30,4 +28,4 @@ namespace xadrez
             }
         }
     }
-//}
+

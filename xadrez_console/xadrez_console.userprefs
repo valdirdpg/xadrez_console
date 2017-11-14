@@ -6,13 +6,16 @@
       <FunctionBreakpoint line="14" column="1" function="Observa Linha" language="C#" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="xadrez\Tela.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="xadrez\xadrez\Rei.cs">
     <Files>
-      <File FileName="xadrez\Program.cs" Line="11" Column="48" />
+      <File FileName="xadrez\Program.cs" Line="14" Column="13" />
       <File FileName="xadrez\tabuleiro\Cor.cs" Line="8" Column="11" />
-      <File FileName="xadrez\tabuleiro\Peca.cs" Line="18" Column="26" />
-      <File FileName="xadrez\tabuleiro\Tabuleiro.cs" Line="11" Column="21" />
-      <File FileName="xadrez\Tela.cs" Line="1" Column="1" />
+      <File FileName="xadrez\tabuleiro\Peca.cs" Line="13" Column="21" />
+      <File FileName="xadrez\tabuleiro\Tabuleiro.cs" Line="25" Column="29" />
+      <File FileName="xadrez\Tela.cs" Line="13" Column="18" />
+      <File FileName="xadrez\tabuleiro\Posicao.cs" Line="1" Column="1" />
+      <File FileName="xadrez\xadrez\Torre.cs" Line="1" Column="1" />
+      <File FileName="xadrez\xadrez\Rei.cs" Line="8" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
