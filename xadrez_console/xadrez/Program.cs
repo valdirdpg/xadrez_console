@@ -8,13 +8,15 @@ namespace xadrez
 {
 	public static void Main(string[] args)
 	{
-            Tabuleiro tab = new Tabuleiro(8,8);
+            /* Tabuleiro tab = new Tabuleiro(8,8);
 
-            tab.ColocarPosicao(new Torre (tab, Cor.Preto), new Posicao(0,0));
-            tab.ColocarPosicao(new Torre(tab, Cor.Preto), new Posicao(1,3));
-            tab.ColocarPosicao(new Rei(tab, Cor.Preto), new Posicao(2,4));
-            Tela.imprimiTabuleiro(tab);
-
+             tab.ColocarPosicao(new Torre (tab, Cor.Preto), new Posicao(0,0));
+             tab.ColocarPosicao(new Torre(tab, Cor.Preto), new Posicao(1,3));
+             tab.ColocarPosicao(new Rei(tab, Cor.Preto), new Posicao(0,0));
+             Tela.imprimiTabuleiro(tab);*/
+             PosicaoXadrez pos = new PosicaoXadrez('a',1);
+            Console.WriteLine(pos);
+            Console.WriteLine(pos.toPosicao());
 		    Console.ReadKey();
 	 }
 
