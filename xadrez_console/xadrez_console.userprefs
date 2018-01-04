@@ -6,19 +6,13 @@
       <FunctionBreakpoint line="14" column="1" function="Observa Linha" language="C#" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="xadrez\xadrez\PosicaoXadrez.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="xadrez\xadrez\Rei.cs">
     <Files>
-      <File FileName="xadrez\Program.cs" Line="7" Column="1" />
-      <File FileName="xadrez\tabuleiro\Cor.cs" Line="8" Column="11" />
-      <File FileName="xadrez\tabuleiro\Peca.cs" Line="13" Column="21" />
-      <File FileName="xadrez\tabuleiro\Tabuleiro.cs" Line="25" Column="10" />
-      <File FileName="xadrez\Tela.cs" Line="13" Column="18" />
-      <File FileName="xadrez\tabuleiro\Posicao.cs" Line="1" Column="1" />
-      <File FileName="xadrez\xadrez\Torre.cs" Line="14" Column="22" />
-      <File FileName="xadrez\xadrez\Rei.cs" Line="8" Column="60" />
-      <File FileName="xadrez\xadrez\PosicaoXadrez.cs" Line="8" Column="13" />
+      <File FileName="xadrez\tabuleiro\Tabuleiro.cs" Line="19" Column="1" />
+      <File FileName="tabuleiro Status" />
+      <File FileName="xadrez Status" />
+      <File FileName="xadrez\xadrez\Rei.cs" Line="8" Column="35" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.xadrez PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
